@@ -1,6 +1,6 @@
-# test-repo
-## Data Science
-### Repo Github
+# Data Science
+## The Data Scientist’s Toolbox
+### Repo with Github - Git (test-repo)
 
 >**Things for test**. [Main Web page of Markdown](http://daringfireball.net/projects/markdown/)
 
