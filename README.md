@@ -3,7 +3,9 @@
 ### Repo Github
 
 >**Things for test**. [Main Web page of Markdown](http://daringfireball.net/projects/markdown/)
+
 >Parrafo 2
+
 *Markdown
 *Heading *with #*
 *Lists 
@@ -12,4 +14,8 @@
 
 ![Imagen](http://sav-ne.com/img/monigotes.png "Titulo")
 
-For special characters just you should write them between ''' ''' like `&#8212;`.
+>For special characters just you should write them between ''' ''' like `&#8212;`.
+>3232
+>1321
+
+>Att Oscar Sanchez
