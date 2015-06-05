@@ -4,7 +4,7 @@
 
 >**Things for test**. [Main Web page of Markdown](http://daringfireball.net/projects/markdown/)
 
->Parrafo 2
+Parrafo 2
 
 * Markdown
 * Heading with #
